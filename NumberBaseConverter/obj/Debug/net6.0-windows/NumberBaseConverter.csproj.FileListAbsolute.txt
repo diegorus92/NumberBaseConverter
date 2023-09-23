@@ -1,0 +1,17 @@
+C:\Diego\proyectos\Programación\WindowsFormsApps\NumberBaseConverter\NumberBaseConverter\bin\Debug\net6.0-windows\NumberBaseConverter.exe
+C:\Diego\proyectos\Programación\WindowsFormsApps\NumberBaseConverter\NumberBaseConverter\bin\Debug\net6.0-windows\NumberBaseConverter.deps.json
+C:\Diego\proyectos\Programación\WindowsFormsApps\NumberBaseConverter\NumberBaseConverter\bin\Debug\net6.0-windows\NumberBaseConverter.runtimeconfig.json
+C:\Diego\proyectos\Programación\WindowsFormsApps\NumberBaseConverter\NumberBaseConverter\bin\Debug\net6.0-windows\NumberBaseConverter.dll
+C:\Diego\proyectos\Programación\WindowsFormsApps\NumberBaseConverter\NumberBaseConverter\bin\Debug\net6.0-windows\NumberBaseConverter.pdb
+C:\Diego\proyectos\Programación\WindowsFormsApps\NumberBaseConverter\NumberBaseConverter\obj\Debug\net6.0-windows\NumberBaseConverter.csproj.AssemblyReference.cache
+C:\Diego\proyectos\Programación\WindowsFormsApps\NumberBaseConverter\NumberBaseConverter\obj\Debug\net6.0-windows\NumberBaseConverter.Form1.resources
+C:\Diego\proyectos\Programación\WindowsFormsApps\NumberBaseConverter\NumberBaseConverter\obj\Debug\net6.0-windows\NumberBaseConverter.csproj.GenerateResource.cache
+C:\Diego\proyectos\Programación\WindowsFormsApps\NumberBaseConverter\NumberBaseConverter\obj\Debug\net6.0-windows\NumberBaseConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Diego\proyectos\Programación\WindowsFormsApps\NumberBaseConverter\NumberBaseConverter\obj\Debug\net6.0-windows\NumberBaseConverter.AssemblyInfoInputs.cache
+C:\Diego\proyectos\Programación\WindowsFormsApps\NumberBaseConverter\NumberBaseConverter\obj\Debug\net6.0-windows\NumberBaseConverter.AssemblyInfo.cs
+C:\Diego\proyectos\Programación\WindowsFormsApps\NumberBaseConverter\NumberBaseConverter\obj\Debug\net6.0-windows\NumberBaseConverter.csproj.CoreCompileInputs.cache
+C:\Diego\proyectos\Programación\WindowsFormsApps\NumberBaseConverter\NumberBaseConverter\obj\Debug\net6.0-windows\NumberBaseConverter.dll
+C:\Diego\proyectos\Programación\WindowsFormsApps\NumberBaseConverter\NumberBaseConverter\obj\Debug\net6.0-windows\refint\NumberBaseConverter.dll
+C:\Diego\proyectos\Programación\WindowsFormsApps\NumberBaseConverter\NumberBaseConverter\obj\Debug\net6.0-windows\NumberBaseConverter.pdb
+C:\Diego\proyectos\Programación\WindowsFormsApps\NumberBaseConverter\NumberBaseConverter\obj\Debug\net6.0-windows\NumberBaseConverter.genruntimeconfig.cache
+C:\Diego\proyectos\Programación\WindowsFormsApps\NumberBaseConverter\NumberBaseConverter\obj\Debug\net6.0-windows\ref\NumberBaseConverter.dll
